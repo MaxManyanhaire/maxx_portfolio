@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "pipilo";
+    src: url(Gotham-Light.otf);
+}
+
+@font-face {
+    font-family: "gotham-bold";
+    src: url(Gotham-Bold.otf);
+}
+
+@font-face {
+    font-family: "gotham-medium";
+    src: url(GothamBook.ttf);
+}
+
+@font-face {
+    font-family: "papyrus";
+    src: url(PAPYRUS.TTF);
+}
+
+@font-face {
+    font-family: "gotham-bitalic";
+    src: url(GothamBoldItalic.ttf);
+}
